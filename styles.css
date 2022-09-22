@@ -21,7 +21,7 @@ footer {
 	font-size: 90%;
 }
 
-h1:hover{
+#head1:hover + #body1{
 	color:yellow;
 	background-color:black;
 }
